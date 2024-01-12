@@ -1,5 +1,5 @@
 # MiTTenS: A Dataset for Evaluating Misgendering in Translation
-This repository contains the paper PDF, data card PDF, and dataset CSV for the paper.
-
-## Abstract
 Misgendering is the act of referring to someone in a way that does not reflect their gender identity.  Translation systems, including foundation models capable of translation, can produce errors that result in misgendering harms. To measure the extent of such potential harms when translating into and out of English, we introduce a dataset, MiTTenS, covering 26 languages from a variety of language families and scripts, including several traditionally underpresented in digital resources. The dataset is constructed with handcrafted passages that target known failure patterns, longer synthetically generated passages, and natural passages sourced from multiple domains. We demonstrate the usefulness of the dataset by evaluating both dedicated neural machine translation systems and foundation models, and show that all systems exhibit errors resulting in misgendering harms, even in high resource languages.
+
+## GitHub repository
+This repository contains the paper PDF, data card PDF, and dataset CSV.
